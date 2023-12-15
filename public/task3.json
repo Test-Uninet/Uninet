@@ -1,0 +1,86 @@
+{
+    "status": 1,
+    "message": "Sukses",
+    "data": {
+        "system_message": "SUCCESS",
+        "response": {
+            "additionaldata": [],
+            "billdetails": [
+                {
+                    "adminfee": "0.0",
+                    "billid": "8",
+                    "currency": "360",
+                    "tittle": "TELKOMSEL 50rb - 50.159",
+                    "totalamount": "50.149.00",
+                    "description": null,
+                    "body": [
+                        "DENOM : 50000"
+                    ]
+                },
+                {
+                    "adminfee": "0.0",
+                    "billid": "9",
+                    "currency": "360",
+                    "tittle": "TELKOMSEL 75rb - 74.050",
+                    "totalamount": "74.050.00",
+                    "description": null,
+                    "body": [
+                        "DENOM : 75000"
+                    ]
+                },
+                {
+                    "adminfee": "0.0",
+                    "billid": "10",
+                    "currency": "360",
+                    "tittle": "TELKOMSEL 100rb - 98.264",
+                    "totalamount": "98.264.00",
+                    "description": null,
+                    "body": [
+                        "DENOM : 100000"
+                    ]
+                },
+                {
+                    "adminfee": "0.0",
+                    "billid": "11",
+                    "currency": "360",
+                    "tittle": "TELKOMSEL 150rb - 146.600",
+                    "totalamount": "146.600.00",
+                    "description": null,
+                    "body": [
+                        "DENOM : 150000"
+                    ]
+                },
+                {
+                    "adminfee": "0.0",
+                    "billid": "12",
+                    "currency": "360",
+                    "tittle": "TELKOMSEL 200rb - 194.900",
+                    "totalamount": "194.900.00",
+                    "description": null,
+                    "body": [
+                        "DENOM : 200000"
+                    ]
+                },
+                {
+                    "billername": "PULSA TSEL",
+                    "inquiryid": "27190993",
+                    "paymenttype": "CLOSE_PAYMENT",
+                    "responsemsg": "0000",
+                    "subscriberid": "SUCCESS",
+                    "subscribername": ""
+                },
+                {
+                    "trace": {
+                        "session_id": "81215AEFADFB710C1258F79ABA 1AD 710.node3",
+                        "request date time": "201907041853 19",
+                        "words": "7796718280415b568cdfd0abcc20eb8c3e 186585",
+                        "biller id": "9900002",
+                        "account_number": "081311529594",
+                        "systrace": 1564026434,
+                         "Inquiry_id": "27190993"
+                    }
+                }
+            ]
+        }
+    }
+}
