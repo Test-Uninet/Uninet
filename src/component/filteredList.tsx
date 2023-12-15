@@ -1,4 +1,3 @@
-// components/FilteredList.tsx
 import React from 'react';
 
 interface FilteredListProps {
