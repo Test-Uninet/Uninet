@@ -58,7 +58,7 @@ const TaskPage: React.FC<TaskPageProps> = ({ data }) => {
 
 export const getStaticProps: GetStaticProps<TaskPageProps> = async () => {
   try {
-    const data: any: TaskPageProps: any['data'] = dummy;
+    const data: any = dummy;
 
     return {
       props: {
